@@ -65,6 +65,7 @@ main {
   color: #eee;
   display: flex;
   align-items: center;
+  gap:0.2rem;
   justify-content: space-between;
   padding: 0.5rem 1rem 1rem;
   letter-spacing: 0.5px;
